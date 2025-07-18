@@ -1,0 +1,54 @@
+/* Reset and base */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #041f47;
+  color: #ebc7c7;
+  line-height: 1.6;
+}
+body {
+  background: #f0f2f5;
+  font-family: "Segoe UI", sans-serif;
+}
+
+a { color: #ebc7c7; text-decoration: none; }
+
+/* Container */
+.container {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* Card layout */
+.card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* Button */
+button {
+  background-color: hsl(281, 96%, 48%);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 12px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #005bb5;
+}
+
+/* Form input */
+input, select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

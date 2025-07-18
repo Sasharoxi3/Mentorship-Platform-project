@@ -1,0 +1,31 @@
+.dashboard-container {
+    max-width: 1000px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  }
+  
+  .dashboard-container h2 {
+    color: #4a00e0;
+    margin-bottom: 1rem;
+  }
+  
+  .dashboard-container p {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .role-section {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: #f9f9f9;
+    border-radius: 10px;
+  }
+  
+  .role-section h3 {
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
